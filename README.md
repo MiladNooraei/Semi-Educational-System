@@ -1,9 +1,10 @@
 
 # Semi Educational System
 
-An Semi Educational System implemented using Java 
+An Semi Educational System implemented using Java and Object Oriented Programming concepts 
 ## Description
 1. Students
+
 Each student in this program include some information such as:
 - Name
 - Last name
@@ -16,6 +17,8 @@ Students can see their grades of their exams and Homeworks.
 Students can send their answers for exams and Homeworks.
 
 2. Professors
+
+   
 Each professor in this program have some information such as:
 - Name
 - Last name
